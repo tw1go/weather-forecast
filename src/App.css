@@ -163,4 +163,7 @@
     .current.info {
         width: 300px;
     }
+    .temperature {
+        font-size: 65px;
+    }
 }
